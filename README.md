@@ -5,13 +5,6 @@ iOS app that allows users to search for books using the Open Library Search API,
 # Installation
 Uses CocoaPods and Realm database framework
 
-After cloning/forking repo:
-
-$ cd {directory}
-$ sudo gem install cocoapods
-$ pod install
-$ open albert_takehome.xcworkspace
-
 # Usage
 Simply open the xcworkspace and run on desired simulator
 
